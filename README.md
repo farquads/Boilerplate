@@ -1,2 +1,2 @@
 # Boilerplate
-The basic setup for a webapp
+The basic setup for a springmvc webapp
